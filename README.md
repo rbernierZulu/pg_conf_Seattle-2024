@@ -5,4 +5,4 @@ This is a repository for my two talks at this venue
 
  # PASS Summit, Seattle 2024
  This is a repository for my talk at this particular venue, which is taking place at the sametime and place
-- WORKING WITH POSTGRESQL AS A JSON DOCUMENT STORE
+- Working With Postgresql As A Json Document Store

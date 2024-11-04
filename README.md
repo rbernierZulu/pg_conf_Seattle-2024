@@ -4,5 +4,5 @@ This is a repository for my two talks at this venue
 - Managing A CitusDB Replication Cluster With Patroni
 
  # PASS Summit, Seattle 2024
- This is a repository for my talk at this particular venue, which is taking place at the sametime and place
+ This is a repository for my talk at this particular venue
 - Working With Postgresql As A Json Document Store
